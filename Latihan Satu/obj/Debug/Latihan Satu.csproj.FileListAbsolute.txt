@@ -1,0 +1,7 @@
+D:\18.11.2273\Object 6\Latihan Satu\Latihan Satu\obj\Debug\Latihan Satu.csprojAssemblyReference.cache
+D:\18.11.2273\Object 6\Latihan Satu\Latihan Satu\obj\Debug\Latihan Satu.csproj.CoreCompileInputs.cache
+D:\18.11.2273\Object 6\Latihan Satu\Latihan Satu\bin\Debug\Latihan Satu.exe.config
+D:\18.11.2273\Object 6\Latihan Satu\Latihan Satu\bin\Debug\Latihan Satu.exe
+D:\18.11.2273\Object 6\Latihan Satu\Latihan Satu\bin\Debug\Latihan Satu.pdb
+D:\18.11.2273\Object 6\Latihan Satu\Latihan Satu\obj\Debug\Latihan Satu.exe
+D:\18.11.2273\Object 6\Latihan Satu\Latihan Satu\obj\Debug\Latihan Satu.pdb
